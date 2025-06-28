@@ -63,7 +63,7 @@ Acredito na melhoria contínua e na colaboração como pilares do crescimento pr
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=klausenjoao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=klausenjoao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_buster=1" 
   />
 
 <img 
