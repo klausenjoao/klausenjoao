@@ -72,5 +72,4 @@ Acredito na melhoria contínua e na colaboração como pilares do crescimento pr
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=klausenjoao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
